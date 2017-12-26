@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Layout for the Services fragment -->
+    <!--<color name="colorPrimary">#3F51B5</color>-->
+    <color name="colorPrimary">#1E711E</color>
+    <color name="colorPrimaryDark">#1E711E</color>
+    <color name="colorAccent">#1E711E</color>
+</resources>
